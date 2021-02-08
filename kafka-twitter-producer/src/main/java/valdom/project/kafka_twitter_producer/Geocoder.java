@@ -24,7 +24,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class Geocoder {
 
     private static final String GEOCODING_RESOURCE = "https://geocode.search.hereapi.com/v1/geocode";
-    private static final String API_KEY = "TdVk1X74Pn8ipZrXNxWwODiv7PtI5HjKWLNjaLmAvok";
+    private static final String API_KEY = "";
     
     //        String requestUri = GEOCODING_RESOURCE + "?apiKey=" + API_KEY + "&query=" + encodedQuery;
 
